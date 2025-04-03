@@ -13,8 +13,8 @@ Pastikan Anda sudah menginstal **Node.js** dan **npm** di sistem Anda.
 
 1. Clone repositori ini:
    ```sh
-   git clone https://github.com/nanaachan12/webclock.git
-   cd webclock
+   git clone https://github.com/nanaachan12/web-clock.git
+   cd web-clock
    ```
 
 2. Install dependensi:
